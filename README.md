@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently working as a Java Backend Developer 🔭
+I'm currently a Backend Developer 🔭
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tungjj)](https://git.io/streak-stats)
 <!--
